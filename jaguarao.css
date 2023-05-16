@@ -1,0 +1,71 @@
+.container{
+	margin: 0 auto;
+	width: 1440px;
+}
+body{
+	front-family: "Lucida Grande","Lucida Sans Unicode",Verdana,
+	 sans-serif;
+	line-height:1.6;
+	background-color: #E0FFFF;
+	font-size: 20px;
+}
+.place{
+	border: 2px solid #000000;
+	margin-bottom: 20px;
+	padding: 10px;
+	background-color: #F5FFFA;
+}
+.place h2{
+	border-bottom: 1px dashed #000000;
+	margin: 0;
+}
+.place a{
+	color: #2C88A7;
+	font-weight: bold;
+}
+h1 a{
+	color:#008080;
+	text-decoration: none;
+}
+h1 a:hover{
+	background-color:#008080;
+    color: #FFF;
+}
+.place img{
+    border: 1px solid #000000;
+    float: left;
+    margin:	10px 10px 0 0;
+	padding: 2px;
+	width:200px;
+}
+.clear{
+	clear: both;
+}
+.footer{
+	font-size: 18px;
+	text-align: center;
+}
+
+.sidenote h3{
+	font-size: 17px;
+	margin-top: 0;
+}
+.sidenote ol{
+	font-size: 16px;
+}
+.places{
+	float: left;
+	width: 990px;
+}
+.sidenote{
+	background-color: #F5FFFA;
+	border: 2px solid #000;
+	float: right;
+	padding: 10px;
+	width: 390px;
+	margin: 10px;
+}
+.sidenote a{
+	color:  #000000;
+}
+	
